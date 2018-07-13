@@ -17,10 +17,10 @@ function divide(a, b) {
   a / b;
 }
 
-function inc(n) {
-  n += 1;
+function inc(a) {
+  a += 1;
 }
 
-function dec(n) {
-  n -= 1;
+function dec(a) {
+  a -= 1;
 }
