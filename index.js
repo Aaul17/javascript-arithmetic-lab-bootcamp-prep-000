@@ -5,21 +5,20 @@ function add(a, b) {
 }
 
 function subtract(a, b) {
-  reua - b;
+  return a - b;
 }
 
 function multiply(a, b) {
-  a * b;
+  return a * b;
 }
 
 function divide(a, b) {
-  a / b;
+  return a / b;
 }
 
 function inc(a) {
-  a += 1;
+  return a += 1;
 }
 
 function dec(a) {
-  a -= 1;
 }
