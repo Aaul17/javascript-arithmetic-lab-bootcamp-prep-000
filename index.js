@@ -1,5 +1,4 @@
-var a = 5
-var b = 7
+var a, b
 
 function add(a, b) {
   a + b;
