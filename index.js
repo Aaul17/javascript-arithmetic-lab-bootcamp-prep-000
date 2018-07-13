@@ -18,5 +18,9 @@ function divide() {
 }
 
 function inc(n) {
-  n++
+  n += 1;
+}
+
+function dec(n) {
+  n -= 1;
 }
